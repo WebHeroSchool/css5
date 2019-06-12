@@ -1,0 +1,40 @@
+body{
+	background-image: url(data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDw8PDQ8PDQ0PDQ8PDw8PDw8PDw0PFRUWFhUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDQ0NDg0NDisZFRkrKzcrKy0rLSsrLSsrNzcrKy0rKysrKysrKy0rKysrKysrKysrKystLTcrKysrKystLf/AABEIAJUBUwMBIgACEQEDEQH/xAAYAAEBAQEBAAAAAAAAAAAAAAABAgAHA//EABYQAQEBAAAAAAAAAAAAAAAAAAARAf/EABgBAQEAAwAAAAAAAAAAAAAAAAEAAgQF/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAMAwEAAhEDEQA/AOamNDG85zQw5hQEMaGECGGHMQohhhiCYYqNChGio0QEaKhiVTGioYVUQxUaIVMaKjRKpjRUaJVEaLjRKojRcERqI0XBAqiNFRokiCLgiNTBFwRFEEXBAkRoqCIpgioNwFLKjJVsLFBjmMSmwxsVmIAwsQ0MbMKAzDDDCBDDDEKI0VDEqmNFRoRRGio0SqY0VDEqiNFwRKpjRUaJVEEekESqIIuCApgi4IjUQRcG4khorcEBTBFCIpCoAUwKG4imMWSYsUmVgMQMLHCGMbMMIYxsOIMcxiQ0OYTEBGhzFRBMMMMIqYYqNEqmNFxolURouCJVMEXGiVRBFwRKogi4AUwRWjUU7g3FDQUjcVuBFO4lY3AUp1QRSFDQUxiyQxWA4kTgVhDHGOIHCzYQS2HECRhIJY4g2GNhIYxsKDRoTCBmNFQxCojRcERRG3FQakncEUNBTAoIpStOgpCtGopCk6CEqCKdCtSCNGqSiAWBGHBhxI4pOKIJBQVhTisIOEYSFYUqTEnAcIUcThQVhSrCCrEmoKKa1KUlqKkwNGhAMN1EAjQyAKdBZOkIgadGopBAI0HUgtqdOhEMzBA4nCio4nFYQVYk4gopwkKUg5qCykkKw4nDUFYcSSFGprVBZqK1Ki6aitUIuiprVKK3RRRUTQKKEQG3UWDUAslqKi2htALDWGojQQCNDaNRZgwKVYgoqVicKCsKcNIVhzUmoKpTTSFZpqaagoprUhdKKakutUU1BdaopqUVTUVqVF0VNapRVapooUVRRRUoqiiiow0UUVE0CsEwbdTUTugAEiihFg1G6CQCiilNNBUc1NJCjU01BWaamtSFmopqS6ag1BdZFNIi61TWqUXTUVqhF1qimpRVNRWqUVWqa1Siq1TRUoqtU1qlDWqa1RhFG6KkrdFFAJoooqJoooqRAoBOhhUWYVgUFNNRVTUU1BZqKakumoNIVTUU1CLpqK1Si6aitSIumorVKLpqK1Qi61RTUoqtU1qlFVqmipRdapoqUXRU1qlFUJrVFVFTWqUNapooMVQKKlDRRWqJFFFBO6KBUTWFCScLMCTgZImsxBLMg1UzJM1LIMzMUWrMgxrMk1ZmSIrMk1ZmSatWZJmDJNWDJEVmRFZmCArMiN1mZIBmRYBgWZmSf//Z);
+	background-repeat: repeat-x;
+	font-family: 'Times New Roman', Arial, san-serif;
+}
+h1{
+	text-align: center;
+	font-weight:200px;
+	font-size: 50px;
+	color: white;
+	font-family:'Impact',Luminari, fantasy;
+}
+.text{
+	height: 100px;
+	vertical-align: middle;
+	width: 500px;
+	text-align: center;
+
+}
+img{
+	margin-top: 35px;
+	
+}
+}
+.container{
+
+	position: relative;
+}
+div span{
+	display: block;
+	position: absolute;
+	top: 38%;
+	left: 50%;
+	margin-top: -55px;
+	margin-left: -150px;
+	width: 300px;
+	height: 300px;
+	text-align: justify;
+
+}
